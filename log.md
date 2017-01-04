@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Jan 3, 2016 (Example 1)
+### Day 0: Jan 3, 2016
 
 
 **Today's Progress**: Started work on the Tribute challenge from FreeCodeCamp.

@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Jan 3, 2016
+### Day 0: Jan 3, 2017
 
 
 **Today's Progress**: Started work on the Tribute challenge from FreeCodeCamp.
@@ -9,7 +9,7 @@
 
 **Link to challenge:** (https://www.freecodecamp.com/challenges/build-a-tribute-page)
 
-### Day 1: Jan 4, 2016
+### Day 1: Jan 4, 2017
 
 
 **Today's Progress**: Fixed CSS for the Tribute page, and incorporated a basic parallax scroll. Added all information elements. Ready to call this one DONE.
@@ -18,4 +18,23 @@
 
 **Link(s) to work**: [A Tribute to Nathaniel Kleitman](https://github.com/fujishimak/tribute)
 
+
+### Day 2: Jan 5, 2017
+
+
+**Today's Progress**: Repaired an issue with the footer on my tribute page. Commenced wireframing for the portfolio challenge.
+
+**Thoughts**: This is great! I was abl to troubleshoot and fix an issue on my page with the footer. Learnt a lot about absolute and relative positioning.
+
+**Link(s) to work**: [A Tribute to Nathaniel Kleitman](https://github.com/fujishimak/tribute)
+
+
+### Day 3: Jan 6, 2017
+
+
+**Today's Progress**: Completed wireframing for the portfolio challenge. Skeleton of the page has been set up...somewhat.
+
+**Thoughts**: I've definitely got to read more on Bootstrap. There are many handy tools there for managing and styling nav bars which I think is one of the major learning points in the challenge. Will be testing out a few things.
+
+**Link(s) to challenge**: (https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)
 
